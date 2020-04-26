@@ -1,0 +1,12 @@
+node_modules/
+.travis.yml
+.coveralls.yml
+npm-debug.log
+coverage/
+.idea
+.vscode
+.test.js
+yarn-error.log
+yarn.lock
+src
+test
